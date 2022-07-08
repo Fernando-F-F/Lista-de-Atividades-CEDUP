@@ -1,2 +1,2 @@
 # Lista-de-Atividades
-PAG 26 : ex01, ex02, ex03
+Lista de Atividades feitas durante as aulas do professor Alex (CEDUP).

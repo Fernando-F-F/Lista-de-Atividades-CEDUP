@@ -1,2 +1,2 @@
 # Lista-de-Atividades
-Lista de atividades feitas nas aulas de programação de aplicativos (CEDUP).
+PAG 26 : exe01, exe02, exe03

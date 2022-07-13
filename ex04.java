@@ -1,4 +1,4 @@
-public class ex01_33 {
+public class ex04 {
     public static void main(String[] args) {
         long par=1;
         int somaimpar = 0;

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ex05_33 {
+public class ex07 {
 
     public static void main(String[] args) {
         Scanner pagamento = new Scanner(System.in);

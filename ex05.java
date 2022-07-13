@@ -1,4 +1,4 @@
-public class ex02_33 {
+public class ex05 {
  
     public static void main(String[] args) {    
         for (int i = 2; i <= 123; i++) {
